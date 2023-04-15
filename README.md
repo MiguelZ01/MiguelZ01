@@ -1,6 +1,6 @@
 
 
-<img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47nupezqmox42gqqvpt3jdq0a9arj8tnys7dsxj8uk&rid=giphy.gif&ct=g" width = '70%' margin = '0px auto'/>
+<img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47nupezqmox42gqqvpt3jdq0a9arj8tnys7dsxj8uk&rid=giphy.gif&ct=g" width = '70%' heigth = '150px' margin = '0 auto'/>
 
 
 <p><em>A web developer at <a href="https://www.soyhenry.com/?gad=1" target="_blank">Soy henry</a>, Full Stack development graduate</br>
