@@ -3,7 +3,7 @@
 <img src="https://github.com/reeveng/reeveng/blob/master/svg.svg"/>
 
 
-<p><em>A web developer at <a href="https://www.soyhenry.com/?gad=1">Soy henry</a>, Full Stack development graduate</br>
+<p><em>A web developer at <a href="https://www.soyhenry.com/?gad=1" target="_blank">Soy henry</a>, Full Stack development graduate</br>
 </em></p>
 
 
