@@ -1,7 +1,7 @@
 
 
 <div id="header" align="center">
-    <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47nupezqmox42gqqvpt3jdq0a9arj8tnys7dsxj8uk&rid=giphy.gif&ct=g" width = 100px 300px'/>
+    <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47nupezqmox42gqqvpt3jdq0a9arj8tnys7dsxj8uk&rid=giphy.gif&ct=g" width = 300px'/>
     <h1>Hi!, I'm Miguel 👨‍💻</h1>
 </div>
 
