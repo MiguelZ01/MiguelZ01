@@ -6,11 +6,8 @@
 </div>
 
 
-<p align="center"><em>A web developer at <a href="https://www.soyhenry.com/?gad=1" target="_blank">Soy henry</a>, Full Stack development graduate</br>
+<h3 align="center"><em>A web developer at <a href="https://www.soyhenry.com/?gad=1" target="_blank">Soy henry</a>, Full Stack development graduate</br>
 </em></p>
-
-<h1 align="center">Hello, I'm Jesús Miguel 👨‍💻</h1>
-<h3 align="center">A web developer at Soy henry, Full Stack development graduate</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
