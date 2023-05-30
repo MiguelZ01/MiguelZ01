@@ -9,11 +9,6 @@
 <p align="center"><em>A web developer at <a href="https://www.soyhenry.com/?gad=1" target="_blank">Soy henry</a>, Full Stack development graduate</br>
 </em></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/miguelz_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miguelz_01" height="30" width="40" /></a>
-</p>
-
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
@@ -32,6 +27,8 @@ const aboutMe = {
    challenge: "I'm working towards being able to run a marathon.",
 };
 ```
-<!--
-**MiguelZ01/MiguelZ01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/miguelz_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miguelz_01" height="30" width="40" /></a>
+</p>
 
