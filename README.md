@@ -12,14 +12,14 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, HTML, CSS],
+   code: [Javascript, Python, HTML, CSS],
    technologies: {
       frontEnd: {
          js: ["React", "Redux", "TypeScript"],
          css: ["Bootstrap"]
       },
       backEnd: {
-         js: ["Node", "Express", "Python"],
+         js: ["Node", "Express", "Django"],
       },
       databases: ["PostgreeSQL", "Sequelize"],
    },
