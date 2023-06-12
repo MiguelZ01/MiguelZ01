@@ -15,13 +15,13 @@ const aboutMe = {
    code: [Javascript, HTML, CSS],
    technologies: {
       frontEnd: {
-         js: ["React, Redux, "TypeScript"],
+         js: ["React", "Redux", "TypeScript"],
          css: ["Bootstrap"]
       },
       backEnd: {
          js: ["Node", "Express", "Python"],
       },
-      databases: ["PostgreeSQL, Sequelize"],
+      databases: ["PostgreeSQL", "Sequelize"],
    },
    currentOccupation: ["Trainee, open to job opportunities"],
    challenge: "I'm working towards being able to run a marathon.",
