@@ -21,7 +21,7 @@ const aboutMe = {
       backEnd: {
          js: ["Node", "Express", "Django"],
       },
-      databases: ["PostgreeSQL", "Sequelize"],
+      databases: ["PostgreSQL", "Sequelize"],
    },
    currentOccupation: ["Trainee, open to job opportunities"],
    challenge: "I'm working towards being able to run a marathon.",
