@@ -19,7 +19,7 @@ const aboutMe = {
          css: ["Bootstrap"]
       },
       backEnd: {
-         js: ["Node", "Express", "Django"],
+         js: ["Node.js", "Express", "Django"],
       },
       databases: ["PostgreSQL", "Sequelize"],
    },
