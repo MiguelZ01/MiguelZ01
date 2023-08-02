@@ -6,7 +6,7 @@
 </div>
 
 
-<p align="center"><em>A web developer at <a href="https://www.soyhenry.com/?gad=1" target="_blank">Soy henry</a>, Full Stack development graduate</br>
+<p align="center"><em>A web developer at <a href="https://www.soyhenry.com/?gad=1" target="_blank">Soy henry</a>, Full Stack Development graduate</br>
 </em></p>
 
 ```javascript
