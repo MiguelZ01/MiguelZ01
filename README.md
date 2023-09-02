@@ -14,11 +14,11 @@ const aboutMe = {
    pronouns: "he" | "him",
    code: ["Javascript", "Python", "HTML", "CSS"],
    technologies: {
-      FrontEnd: {
+      frontend: {
          js: ["React", "Redux", "Redux-Toolkit"],
          css: ["Bootstrap"]
       },
-      BackEnd: {
+      backend: {
          js: ["Node.js", "Express"],
          python: ["Django"]   
       },
